@@ -1,0 +1,119 @@
+html, 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: tomato;
+}
+
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.video_item {
+    width: 100%;
+}
+
+
+.video h1 {
+    font-size: 70px;
+}
+
+header {
+    padding: 5px;
+    background-color: aquamarine;
+}
+.cumires {
+    align-content: center;
+    text-align: center;
+}
+
+.cumires h2{
+    font-size: 30px;
+}
+
+.cumires p{
+    font-size: 25px;
+}
+
+.hi h2{
+    font-size: 30px;
+}
+
+.AOW {
+    text-align: right;
+}
+
+
+
+.rait {
+    text-align: center;
+    align-content: center;
+    justify-items: baseline;
+    background-color: antiquewhite;
+    border-collapse: collapse;
+    border: 3px solid gold;
+    box-shadow: 15px 0px 10px 0px palevioletred;
+}
+
+td {
+    border: 3px solid gold; 
+    height: 50px;
+    width: 175px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.pervi {
+    background-image: linear-gradient(to right bottom, lime, aquamarine);
+}
+
+.raiting p{
+    font-size: 25px;
+}
+
+.raiting {
+    background-color: deepskyblue;
+}
+
+.rait td:hover {
+    font-size: 40px;
+    transition: 1s;
+}
+
+.name {
+    width: 450px;
+}
+
+.country {
+    width: 200px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.test {
+    align-items: center;
+}
+
+footer {
+    background-color: firebrick;
+    color: aliceblue;
+    padding: 10px;
+}
+
+footer p{
+    background-color: blueviolet;
+    margin: 10px;
+    padding: 10px;
+}
+
+.kodap {
+    width: 280px;
+}
